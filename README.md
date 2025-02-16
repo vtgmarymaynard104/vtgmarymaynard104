@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm vtgmarymaynard104
 
-<!--
-**vtgmarymaynard104/vtgmarymaynard104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎳 🎣 Fascinated by virtual reality 🎳 🎣
 
-Here are some ideas to get you started:
+## About Me
+🎪 🎯 Passionate about developer advocacy 🎪 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎧 🎮 Excited about technical writing 🎧 🎮
+
+### Fun Facts
+🎳 🎷 🚵 🎱 Interested in design thinking 🎳 🎷 🚵 🎱
+
+---
+🎾 🏑 🎻 🎪 🚣 Thanks for visiting my profile! 🛼 🏸 🌈 🚣 🎸
